@@ -1,0 +1,5 @@
+﻿  WorkPageTwoTutorial.cpp
+C:\Users\hossa\OneDrive\Desktop\OO Programming\WorkPageTwoTutorial\WorkPageTwoTutorial\WorkPageTwoTutorial.cpp(65,45): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hossa\OneDrive\Desktop\OO Programming\WorkPageTwoTutorial\WorkPageTwoTutorial\WorkPageTwoTutorial.cpp(73,35): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\hossa\OneDrive\Desktop\OO Programming\WorkPageTwoTutorial\WorkPageTwoTutorial\WorkPageTwoTutorial.cpp(86,20): warning C4018: '>': signed/unsigned mismatch
+  WorkPageTwoTutorial.vcxproj -> C:\Users\hossa\OneDrive\Desktop\OO Programming\WorkPageTwoTutorial\Debug\WorkPageTwoTutorial.exe

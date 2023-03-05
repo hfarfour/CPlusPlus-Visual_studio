@@ -1,0 +1,19 @@
+﻿  ExerciseALift.cpp
+C:\Users\hossa\OneDrive\Desktop\OO Programming\Work packge eight\ExerciseALift\ExerciseALift\ExerciseALift.cpp(39,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hossa\OneDrive\Desktop\OO Programming\Work packge eight\ExerciseALift\ExerciseALift\ExerciseALift.cpp(186,10): error C2065: 'chocolate_Dispenser': undeclared identifier
+C:\Users\hossa\OneDrive\Desktop\OO Programming\Work packge eight\ExerciseALift\ExerciseALift\ExerciseALift.cpp(186,1): error C2059: syntax error: ')'
+C:\Users\hossa\OneDrive\Desktop\OO Programming\Work packge eight\ExerciseALift\ExerciseALift\ExerciseALift.cpp(187,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\hossa\OneDrive\Desktop\OO Programming\Work packge eight\ExerciseALift\ExerciseALift\ExerciseALift.cpp(188,13): error C2065: 'chocolate_Dispenser': undeclared identifier
+C:\Users\hossa\OneDrive\Desktop\OO Programming\Work packge eight\ExerciseALift\ExerciseALift\ExerciseALift.cpp(188,1): error C2059: syntax error: ')'
+C:\Users\hossa\OneDrive\Desktop\OO Programming\Work packge eight\ExerciseALift\ExerciseALift\ExerciseALift.cpp(191,5): error C2065: 'chocolate_Dispenser': undeclared identifier
+C:\Users\hossa\OneDrive\Desktop\OO Programming\Work packge eight\ExerciseALift\ExerciseALift\ExerciseALift.cpp(191,1): error C2059: syntax error: ')'
+C:\Users\hossa\OneDrive\Desktop\OO Programming\Work packge eight\ExerciseALift\ExerciseALift\ExerciseALift.cpp(192,5): error C2065: 'chocolate_Dispenser': undeclared identifier
+C:\Users\hossa\OneDrive\Desktop\OO Programming\Work packge eight\ExerciseALift\ExerciseALift\ExerciseALift.cpp(192,1): error C2059: syntax error: ')'
+C:\Users\hossa\OneDrive\Desktop\OO Programming\Work packge eight\ExerciseALift\ExerciseALift\ExerciseALift.cpp(241,56): error C2065: 'chocolate_Dispenser': undeclared identifier
+C:\Users\hossa\OneDrive\Desktop\OO Programming\Work packge eight\ExerciseALift\ExerciseALift\ExerciseALift.cpp(241,1): error C2059: syntax error: ')'
+C:\Users\hossa\OneDrive\Desktop\OO Programming\Work packge eight\ExerciseALift\ExerciseALift\ExerciseALift.cpp(242,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\hossa\OneDrive\Desktop\OO Programming\Work packge eight\ExerciseALift\ExerciseALift\ExerciseALift.cpp(244,94): error C2065: 'chocolate_Dispenser': undeclared identifier
+C:\Users\hossa\OneDrive\Desktop\OO Programming\Work packge eight\ExerciseALift\ExerciseALift\ExerciseALift.cpp(244,1): error C2059: syntax error: ')'
+C:\Users\hossa\OneDrive\Desktop\OO Programming\Work packge eight\ExerciseALift\ExerciseALift\ExerciseALift.cpp(246,6): error C2065: 'chocolate_Dispenser': undeclared identifier
+C:\Users\hossa\OneDrive\Desktop\OO Programming\Work packge eight\ExerciseALift\ExerciseALift\ExerciseALift.cpp(246,1): error C2059: syntax error: ')'
+C:\Users\hossa\OneDrive\Desktop\OO Programming\Work packge eight\ExerciseALift\ExerciseALift\ExerciseALift.cpp(248,1): error C2181: illegal else without matching if

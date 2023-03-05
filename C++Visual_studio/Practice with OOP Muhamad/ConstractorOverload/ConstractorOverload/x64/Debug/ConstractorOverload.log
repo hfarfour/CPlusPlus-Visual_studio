@@ -1,0 +1,5 @@
+﻿  ConstractorOverload.cpp
+C:\Users\hossa\OneDrive\Desktop\Practice with OOP Muhamad\ConstractorOverload\ConstractorOverload\ConstractorOverload.cpp(12,65): error C2668: 'calculator::add': ambiguous call to overloaded function
+C:\Users\hossa\OneDrive\Desktop\Practice with OOP Muhamad\ConstractorOverload\ConstractorOverload\calculator.h(11,8): message : could be 'float calculator::add(float,float,float)'
+C:\Users\hossa\OneDrive\Desktop\Practice with OOP Muhamad\ConstractorOverload\ConstractorOverload\calculator.h(10,6): message : or       'int calculator::add(int,int,int)'
+C:\Users\hossa\OneDrive\Desktop\Practice with OOP Muhamad\ConstractorOverload\ConstractorOverload\ConstractorOverload.cpp(12,65): message : while trying to match the argument list '(double, double, double)'

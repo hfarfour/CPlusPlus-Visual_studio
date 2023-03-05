@@ -1,0 +1,6 @@
+﻿  Lecture3Polymorphism.cpp
+F:\OOP C++\Lecture3Polymorphism\Lecture3Polymorphism\Lecture3Polymorphism.cpp(107,21): warning C4018: '<': signed/unsigned mismatch
+F:\OOP C++\Lecture3Polymorphism\Lecture3Polymorphism\Lecture3Polymorphism.cpp(125,21): warning C4018: '<': signed/unsigned mismatch
+F:\OOP C++\Lecture3Polymorphism\Lecture3Polymorphism\Lecture3Polymorphism.cpp(133,21): warning C4018: '<': signed/unsigned mismatch
+  LINK : F:\OOP C++\Lecture3Polymorphism\Debug\Lecture3Polymorphism.exe not found or not built by the last incremental link; performing full link
+  Lecture3Polymorphism.vcxproj -> F:\OOP C++\Lecture3Polymorphism\Debug\Lecture3Polymorphism.exe

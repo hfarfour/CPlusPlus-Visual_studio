@@ -1,0 +1,7 @@
+﻿  DecoratingObjects.cpp
+C:\Users\hossa\OneDrive\Desktop\OO Programming\Work package five\DecoratingObjects\DecoratingObjects\DecoratingObjects.cpp(62,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\hossa\OneDrive\Desktop\OO Programming\Work package five\DecoratingObjects\DecoratingObjects\DecoratingObjects.cpp(77,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\hossa\OneDrive\Desktop\OO Programming\Work package five\DecoratingObjects\DecoratingObjects\DecoratingObjects.cpp(157,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\hossa\OneDrive\Desktop\OO Programming\Work package five\DecoratingObjects\DecoratingObjects\DecoratingObjects.cpp(178,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\hossa\OneDrive\Desktop\OO Programming\Work package five\DecoratingObjects\DecoratingObjects\DecoratingObjects.cpp(190,1): warning C4305: '=': truncation from 'double' to 'float'
+  DecoratingObjects.vcxproj -> C:\Users\hossa\OneDrive\Desktop\OO Programming\Work package five\DecoratingObjects\Debug\DecoratingObjects.exe

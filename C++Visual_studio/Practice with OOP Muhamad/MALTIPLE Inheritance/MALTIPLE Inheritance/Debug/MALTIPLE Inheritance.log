@@ -1,0 +1,4 @@
+﻿  MALTIPLE Inheritance.cpp
+C:\Users\hossa\OneDrive\Desktop\Practice with OOP Muhamad\MALTIPLE Inheritance\MALTIPLE Inheritance\MALTIPLE Inheritance.cpp(51,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\hossa\OneDrive\Desktop\Practice with OOP Muhamad\MALTIPLE Inheritance\MALTIPLE Inheritance\MALTIPLE Inheritance.cpp(143,72): warning C4305: 'argument': truncation from 'double' to 'float'
+  MALTIPLE Inheritance.vcxproj -> C:\Users\hossa\OneDrive\Desktop\Practice with OOP Muhamad\MALTIPLE Inheritance\Debug\MALTIPLE Inheritance.exe

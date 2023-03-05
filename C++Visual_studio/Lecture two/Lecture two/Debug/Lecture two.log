@@ -1,0 +1,9 @@
+﻿  Lecture two.cpp
+C:\Users\hossa\OneDrive\Desktop\OO Programming\Lecture two\Lecture two\Lecture two.cpp(21,9): error C3861: 'enterMarks': identifier not found
+C:\Users\hossa\OneDrive\Desktop\OO Programming\Lecture two\Lecture two\Lecture two.cpp(22,22): error C3861: 'calculateModuleMark': identifier not found
+C:\Users\hossa\OneDrive\Desktop\OO Programming\Lecture two\Lecture two\Lecture two.cpp(23,9): error C3861: 'displayMark': identifier not found
+C:\Users\hossa\OneDrive\Desktop\OO Programming\Lecture two\Lecture two\Lecture two.cpp(36,29): error C3861: 'courseworkMark': identifier not found
+C:\Users\hossa\OneDrive\Desktop\OO Programming\Lecture two\Lecture two\Lecture two.cpp(37,31): error C2064: term does not evaluate to a function taking 1 arguments
+C:\Users\hossa\OneDrive\Desktop\OO Programming\Lecture two\Lecture two\Lecture two.cpp(40,16): error C3861: 'examMarks': identifier not found
+C:\Users\hossa\OneDrive\Desktop\OO Programming\Lecture two\Lecture two\Lecture two.cpp(71,27): error C2660: 'enterMarks': function does not take 0 arguments
+C:\Users\hossa\OneDrive\Desktop\OO Programming\Lecture two\Lecture two\Lecture two.cpp(31,6): message : see declaration of 'enterMarks'
